@@ -1,0 +1,1 @@
+# Serialized-Attention-and-Masked-Residual-Network-Structure-for-Free-form-Image-Inpainting
